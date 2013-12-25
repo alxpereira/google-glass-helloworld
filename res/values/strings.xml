@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestHello</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello Alex (in a view) !</string>
+    <string name="hello_world_card">Hello Alex (in a card) !</string>
+    <string name="show_me_a_demo">show me hello</string>
+
+</resources>
